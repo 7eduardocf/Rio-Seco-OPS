@@ -44,3 +44,17 @@ Plataforma web com funcionamento offline:
 | Slides da defesa | [apresentacao/Rio_Seco_OPS_Defesa.pptx](apresentacao/Rio_Seco_OPS_Defesa.pptx) |
 
 Para ver um arquivo, abra o link e clique em **Download raw file** (os arquivos .docx e .pptx não são exibidos direto no GitHub).
+
+## Protótipo
+
+Protótipo navegável em React + Vite, com dados simulados, na pasta [produto](produto). Telas, roteiro de demonstração e instruções em [produto/README.md](produto/README.md).
+
+Publicado em: https://7eduardocf.github.io/Rio-Seco-OPS/
+
+Para rodar localmente (Node.js 22):
+
+```
+cd produto
+npm install
+npm run dev
+```
